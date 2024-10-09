@@ -20,5 +20,9 @@ In the fashion of the big novels by Salman Rushdie or Amitav Ghosh (Biblio), Qua
 
 When I read literary fiction with a political flavor, I try to imagine the environment and the fears and anxieties of the protagonists. This step was very easy in Quarterlife, because it felt like a book about the people around me in India. It is set in the familiar bylanes of Bombay and Pune and Konkan, the people talk like the people I know, and the anxieties, though unfounded and hate-filled are all-too-familiar. This is a strange feeling to have when reading a book- it hits eerily close to home. I couldn't tell real life and fiction separate at times. 
 
-It's a testament to the author's sharp pen to be able to explain the context in which the characters function so well. I wanted to cry and scoff and stay angry. The talking points of the protagonists and the party were so infuriating (in a very good way!). I will be thinking about this book for a long time to come.   
+It's a testament to the author's sharp pen to be able to explain the context in which the characters function so well. I wanted to cry and scoff and stay angry. The talking points of the protagonists and the party were so infuriating (in a very good way!). I will be thinking about this book for a long time to come. 
 
+
+**If you like this post, don't forget to subscribe and share!**
+
+{{< subscribe >}}

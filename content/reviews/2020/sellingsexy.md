@@ -26,3 +26,7 @@ Selling Sexy expertly draws from sources within Victoria’s Secret and across t
 
 Super interesting book about victoria's secret. I learnt quite a few things about the cultural consequences of the brand, but what i didn't like was it didn't engage enough with the cultural contexts before the brand existed. i also didn't like that the author assumed some basic knowledge. looking up whether and how a person/brand was important took me out of the narrative. but still interesting!
 
+
+**If you like this post, don't forget to subscribe and share!**
+
+{{< subscribe >}}
