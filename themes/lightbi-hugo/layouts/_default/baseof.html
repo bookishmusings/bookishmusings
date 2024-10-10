@@ -1,6 +1,12 @@
 <!DOCTYPE html>
 <html lang="{{ .Lang }}" itemscope itemtype="http://schema.org/WebPage">
   <head>
+    <!-- Google Fonts Link -->
+    <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
+
+    <!-- Custom CSS for additional styling (optional) -->
+    <link rel="stylesheet" href="/fonts/customfont.css">
+
     {{ partial "head.html" . }}
   </head>
   <body>
@@ -11,4 +17,3 @@
     {{ block "footer" . }}{{ end }}
   </body>
 </html>
-

@@ -49,35 +49,31 @@ previewCardImagePlacement = "bottom"
   name = "A"
   website = "https://bookishmusingsbya.substack.com"
 
-[[menu.main]]
-    name = "home"
-    url = "/home/"
-    weight = 1
 
 [[menu.main]]
     name = "reviews"
     url = "/reviews/"
-    weight = 3
+    weight = 2
 
 [[menu.main]]
     name = "fireside chats"
     url = "/rants/"
-    weight = 4
+    weight = 3
 
 [[menu.main]]
     name = "roundups"
     url = "/roundups/"
-    weight = 5
+    weight = 4
 
 [[menu.main]]
     name = "about"
     url = "/about/"
-    weight = 2
+    weight = 1
     
 [[menu.main]]
     name = "subscribe!"
     url = "/subscribe/"
-    weight = 6
+    weight = 5
 
 
 

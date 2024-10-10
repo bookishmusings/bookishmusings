@@ -1,5 +1,6 @@
 ---
 title: homepage
+image : "/img/posts/banner.png"
 ---
 
 # Hello 👋
