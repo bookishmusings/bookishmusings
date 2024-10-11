@@ -1,6 +1,12 @@
 ---
 title: "Recent Releases: Quarterlife, by Devika Rege"
 date: 2024-10-09
+tags: 
+- fiction
+- literary fiction
+- netgalley
+- ARCs
+- new releases
 ---
 
 Thank you to NetGalley and the publisher for an ARC.

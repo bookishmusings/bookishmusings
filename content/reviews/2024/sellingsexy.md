@@ -1,6 +1,12 @@
 ---
 title: "Recent Releases: Selling Sexy"
 date: 2024-10-09
+tags:
+- victoria's secret
+- non-fiction
+- netgalley
+- ARCs
+- new releases
 ---
 
 Thank you to Netlify and the publisher for an ARC.
