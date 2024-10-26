@@ -22,4 +22,6 @@ Welcome to my digital garden! 🌱 I'm so glad to have you here!
 
 🌱Here is an excellent write-up about the [history of digital gardens](https://maggieappleton.com/garden-history)
 
+> You get to actively choose which curiosity trail to follow, rather than defaulting to the algorithmically-filtered ephemeral stream. **The garden helps us move away from time-bound streams and into contextual knowledge spaces.**
+
 🌱Check out this [post](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/) about digital gardens by MIT technology review
