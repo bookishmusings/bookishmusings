@@ -23,7 +23,7 @@ tags:
 📕 **Full Title**: Loot \
 🖊 **Author**: Tania James
 
-🔎 **Book Description**: spellbinding historical novel set in eighteenth-century India, England, and France about a young man’s dream of leaving a mark on the world.
+🔎 **Book Description**: A spellbinding historical novel set in eighteenth-century India, England, and France about a young man’s dream of leaving a mark on the world.
 
 Longlisted for the National Book Award and the Carol Shields Prize for Fiction
 
