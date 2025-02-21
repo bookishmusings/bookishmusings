@@ -38,6 +38,8 @@ I was almost on the edge of tears at the end of the story of the art student goi
 
 Eventually though, this book is about finding community in unexpected ways, unexpected places, and among unexpected people, which is always a nice thing to read about.
 
+_Thanks to Netgalley and the publisher for the ARC_
+
 **If you like this post, don't forget to subscribe and share!**
 
 {{< subscribe >}}

@@ -32,8 +32,9 @@ tags:
 
 ⭐⭐⭐⭐/5
 
-I got sucked in at the very beginning and couldn't stop listening to this book about two video game developers who hate each other, and then don't. I liked both the main characters, which is very rare for me, and I found myself rooting for both of them. Even as a non-gamer, this was a fun, engrossing read that was excellently narrated too. 
-Thanks to Netgalley and the publisher for an advanced review copy.
+I got sucked in at the very beginning and couldn't stop listening to this book about two video game developers who hate each other, and then don't. I liked both the main characters, which is very rare for me, and I found myself rooting for both of them. Even as a non-gamer, this was a fun, engrossing read that was excellently narrated too.
+
+_Thanks to Netgalley and the publisher for the ARC_
 
 
 **If you like this post, don't forget to subscribe and share!**

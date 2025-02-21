@@ -34,7 +34,7 @@ tags:
 
 I had a lot of fun reading this book about a model who gets recruited to be a spy during the cold war. However, I don't think I'm going to think about this book again. While I was reading it, it was super interesting, but I didn't find myself wanting to read it while I wasn't actively reading. Also while reading it, sometimes I caught little online language which just kept putting me off. The narrator on the other hand was excellent!
 
-Thanks to Netgalley and the publisher for the ARC
+_Thanks to Netgalley and the publisher for the ARC_
 
 **If you like this post, don't forget to subscribe and share!**
 

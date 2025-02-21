@@ -39,7 +39,7 @@ when i went into this book, i didn't know what to expect, other than who the aut
 
 she talks about body image and disordered eating, terrible and/or painful relationships with people we love (including ourselves), and just her sense of self (which somehow felt like my sense of self?) in absolute honest and raw ways. overall, i did not have fun with this book (as i expected i would), but it was a great book, that i would think a lot about.
 
-thanks to netgalley and the publisher for an audio ARC
+_Thanks to Netgalley and the publisher for the ARC_
 
 **If you like this post, don't forget to subscribe and share!**
 

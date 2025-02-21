@@ -37,8 +37,8 @@ n You Didn’t Hear This From Me, McKinney explores the murkiness of everyday st
 ⭐⭐⭐⭐/5
 
 i had a blast reading this book. i think this is an early contender for a top ten reads this year for me, only because it's so entertaining and also super informative/well-researched. obviously, as a podcast host, the narration here is also excellent. no notes. i was sad that the book was over, which hasn't happened to me in a long time.
-thanks to netgalley and the publisher for the audio arc.
 
+_Thanks to Netgalley and the publisher for the ARC_
 
 **If you like this post, don't forget to subscribe and share!**
 
